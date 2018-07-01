@@ -19,3 +19,4 @@ Tested with a Raspberry Pi Zero W and a DHT11 temperature sensor.
 Reference this blog from [Twillio](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
 
 * Install `pip install gspread oauth2client`
+* May need upgrade: `pip install --upgrade pyasn1-modules`
